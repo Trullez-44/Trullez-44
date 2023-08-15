@@ -1,2 +1,5 @@
 # Trullez-44
- ## Test
+## This is my backend student portfolio:)
+### Come with me, enjoy this profile
+#### I'm a game developer dabbling in backend software
+ 
