@@ -11,7 +11,7 @@ As I continue to grow professionally, my goal is to become a **_senior fullstack
 
 ***
 
-### Hard Skills
+### Hard Skills (Languages, frameworks and tools)
 ![](https://img.icons8.com/?size=45&id=13679&format=png)
 ![](https://img.icons8.com/?size=45&id=90519&format=png)
 <img src="https://github.com/Trullez-44/Trullez-44/assets/136148374/980c7ec4-e4f8-48fc-b38b-dc89075e6b4a" alt="Swagger Icon" width="45" height="45">
