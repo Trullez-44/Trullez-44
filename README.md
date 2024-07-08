@@ -3,8 +3,6 @@
 
 ## About me 👨‍💻
 
-### 
-
 I pride myself on **_assertive communication_**, **_active listening_**, and a **_proactive approach_**. My **_teamwork_** and **_leadership skills_** enable me to tackle challenges effectively and **_solve problems efficiently_**.
 
 With a background in video **_game development_** and **_psychoeducational software_**, I've honed advanced programming techniques and gained a profound appreciation for **_architecture_**, **_sustainability_**, and **_project scalability_**.
@@ -43,16 +41,11 @@ As I continue to grow professionally, my goal is to become a **_senior fullstack
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Trullez-44&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trullez-44&theme=react&line_height=40&hide=css"/>
     </a>
     </div
   
 <br/>
-
-***
 
 ---
